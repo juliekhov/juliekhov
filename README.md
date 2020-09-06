@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Full-Stack Web Development.
 - 🌱 I’m currently learning front-end.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on a Hackathon team.
+- 🤔 I’m looking for help with staying focused and learning new code.
 - 💬 Ask me about robots.
 - 📫 How to reach me: https://www.linkedin.com/in/juliekhov/
 - 😄 Pronouns: She/her/hers
