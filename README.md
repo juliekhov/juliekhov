@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://assets.codepen.io/3163723/Screen+Shot+2020-09-06+at+2.28.59+AM.png" />
+<img src="https://assets.codepen.io/3163723/Screen+Shot+2020-09-07+at+5.08.04+AM.png" />
 
 - 🔭 I’m currently working on Full-Stack Web Development.
 - 🌱 I’m currently learning front-end.
