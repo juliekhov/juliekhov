@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://assets.codepen.io/3163723/Screen+Shot+2020-09-07+at+5.08.04+AM.png" />
-<img src="https://assets.codepen.io/3163723/Dev-Sticker-AstroDev+%281%29.png" />
+<img src="https://assets.codepen.io/3163723/Dev-Sticker-AstroDev+%281%29.png" height="150px" width="150px" />
 
 - 🔭 I’m currently working on Full-Stack Web Development.
 - 🌱 I’m currently learning front-end.
